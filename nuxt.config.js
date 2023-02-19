@@ -1,4 +1,8 @@
 export default {
+  ssr: false,
+
+  target: 'static',
+
   head: {
     title: 'markdown-inText-search',
     htmlAttrs: {
